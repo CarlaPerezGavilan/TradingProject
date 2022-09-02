@@ -1,0 +1,2 @@
+# TradingProject
+Trading stocks platform
